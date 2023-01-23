@@ -53,6 +53,8 @@
 </template>
 
 <script setup>
+
+// Get itemJson from Page
 const { item } = defineProps(['item'])
 </script>
 
